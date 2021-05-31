@@ -1,0 +1,5 @@
+- hello I am vinh 
+- I'm currently trying to learn languages (as of 2021) such as Java, R, SQL and much more! 
+- you can reach me on Discord (vinh#2674)
+- or LinkedIn (Jason Son)
+- feel free to reach out to me!
