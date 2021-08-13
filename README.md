@@ -1,5 +1,5 @@
-- hello I am vinh 
-- I'm currently trying to learn languages (as of 2021) such as Java, R, SQL and much more! 
-- you can reach me on Discord (vinh#2674)
-- or LinkedIn (Jason Son)
-- feel free to reach out to me!
+- 🌟hey, I'm vinh and i go by he/him
+-  🌠 i have experience in Python (Pandas, Requests) and C++
+-  🌑 i've been coding since sophomore year at the start of COVID, and i found my interest towards Data Science and Statistics
+- ❓ i'm currently learning how to do **Java**, **SQL**, and **React** _i'm not really interested in this :'(_
+- 📥 you can contact me through email **jasonson2004@gmail.com** or Discord through **vinh#2674**
