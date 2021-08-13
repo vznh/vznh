@@ -1,4 +1,4 @@
-- 🌟hey, I'm vinh and i go by he/him
+- 🌟hey, I'm vinh
 -  🌠 i have experience in Python (Pandas, Requests) and C++
 -  🌑 i've been coding since sophomore year at the start of COVID, and i found my interest towards Data Science and Statistics
 - ❓ i'm currently learning how to do **Java**, **SQL**, and **React** _i'm not really interested in this :'(_
