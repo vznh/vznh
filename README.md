@@ -1,5 +1,5 @@
 - 🌟hey, I'm vinh
 -  🌠 i have experience in **Python** (Pandas, Requests), C++, **Java**
--  🌑 i've been coding since sophomore year at the start of COVID, and i found my interest towards Data Science and Statistics
+-  🌑 i've been coding since sophomore year at the start of COVID (2019 sophomore year of HS), and i found my interest towards Data Science and Statistics
 - ❓ i'm currently learning how to do **SQL**, and **React** _i'm not really interested in this :'(_
 - 📥 you can contact me through email **jasonson2004@gmail.com** or Discord through **vinh#2674**
