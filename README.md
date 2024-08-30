@@ -7,7 +7,9 @@ I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science an
 
 - I'm currently a Software Engineering Intern for the Apps & Frameworks team at Apple.   
 
-- I was previously Research@Carnegie Mellon, Research@UC Santa Cruz, and Research@Seoul National. 
+- I was previously Research@Carnegie Mellon, Research@UC Santa Cruz, and Research@Seoul National.
+
+- Fun fact: I'm training for my EMT certification right now!
 
 - I use `.ts`, `.tsx` for my startups. 
 
