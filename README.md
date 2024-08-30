@@ -5,7 +5,7 @@ I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science an
 
 - I was a founder for [Tokn](https://tokn.so), which was acquired by Birdeye in February 2024.  
 
-- I'm currently a Software Engineering Intern @Apps & Frameworks team at Apple.   
+- I was an Software Engineering Intern for @Apps&Frameworks at Apple.  
 
 - I was previously Research@Carnegie Mellon, Research@UC Santa Cruz, and Research@Seoul National.
 
