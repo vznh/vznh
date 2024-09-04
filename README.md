@@ -7,7 +7,7 @@ I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science an
 
 - I was an Software Engineering Intern @Apps&Frameworks for Apple.  
 
-- I was previously Research@Carnegie Mellon (Neuro), Research@UC Santa Cruz (GenAI), and Research@Seoul National (Genome).
+- I was previously Research@Carnegie Mellon (Neuro), Research@UC Santa Cruz (GenAI), and Research@Seoul National (Genome R&D).
 
 - ⚙️ I use `.ts`, `.tsx` for my startups. 
 
