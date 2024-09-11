@@ -1,4 +1,4 @@
-#👋 
+# 👋 
 I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science and Biology, concentrating in neuroscience.  
 
 - Right now, I'm working on [Polyglot](https://landing-lime-five.vercel.app/) at Stanford.  
