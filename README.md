@@ -13,4 +13,6 @@ I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science an
 
 - 💼 I use `.m`, `.swift`, `.cpp` for my work. 
 
-- 🔎 I use `.py`, `.c`, `.rs` for any of my research. 
+- 🔎 I use `.py`, `.c`, `.rs` for any of my research.
+
+- 🧑‍🎓 I'm learning `.bash` and `tmux` right now to optimize how I traverse my terminal!
