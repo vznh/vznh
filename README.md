@@ -15,4 +15,4 @@ I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science an
 
 - 🔎 I use `.py`, `.c`, `.rs` for any of my research.
 
-- 🧑‍🎓 I'm learning `.bash` and `tmux` right now to optimize my workflow.
+- 🧑‍🎓 I'm delving more in-depth in `.rs` as of right now to explore quantitative development.
