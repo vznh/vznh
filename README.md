@@ -19,4 +19,4 @@ I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science an
 
 - 🏔️ My first role was a Software Engineering Intern at ETALYC, a traffic engineering startup.
 
-- 🎵 My favorite musical artists are Veeze, LUCKI, and Kendrick Lamar. 
+- 🎵 My favorite musical artists are [Veeze](https://open.spotify.com/track/2zINsDbVo9YOhxVvJ4yOkp?si=27ec5aebca3d453a), [LUCKI](https://open.spotify.com/track/1LceL8vpL1OYTH2xfIKvqd?si=676feeaaea3d46cf), and [Kendrick Lamar](https://open.spotify.com/track/1FRF0NHXBW4ecdulGkTzJY?si=050b1ed680d7443f). 
