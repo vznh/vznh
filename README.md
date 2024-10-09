@@ -18,3 +18,5 @@ I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science an
 - 🧑‍🎓 I'm delving more in-depth in `.rs` as of right now to explore quantitative development.
 
 - 🏔️ My first role was a Software Engineering Intern at ETALYC, a traffic engineering startup.
+
+- 🎵 My favorite musical artists are Veeze, LUCKI, and Kendrick Lamar. 
