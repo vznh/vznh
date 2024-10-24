@@ -5,7 +5,7 @@ I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science an
 
 - I was a founder for [Tokn](https://tokn.so), which was acquired by Birdeye in February 2024. 
 
-- I was an Software Engineering Intern one of the FAANGs.
+- I was an Software Engineering Intern @ one of the FAANGs.
 
 - I was previously Research@Carnegie Mellon (Neuro), Research@UC Santa Cruz (GenAI), and Research@Seoul National (Genome R&D).
 
