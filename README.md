@@ -15,6 +15,6 @@ I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science an
 
 - 🔎 I use `.py`, `.c`, `.rs` for any of my research.
 
-- 🧑‍🎓 I'm delving more in-depth in `.rs` as of right now to explore quantitative development.
+- 🧑‍🎓 I'm delving more into open-source contribution so I can adapt to different types of codebases.
 
 - 📝 Large gap in my contributions? I was most likely working in a private repo for an internship, or studying for examinations.
