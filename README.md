@@ -1,11 +1,7 @@
 # 👋 
 I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science and Biology, concentrating in software engineering and neuroscience.  
 
-- Current: Conducting RNA research at UC Santa Cruz.
-
-- On pause: Working on [Polyglot](https://landing-lime-five.vercel.app/) at Stanford.  
-
-- I was a founder for [Tokn](https://tokn.so), which was acquired by Birdeye in February 2024. 
+- Current: integration testing my life rn
 
 - I have software engineering experience at both FAANG and startup.
 
