@@ -7,6 +7,8 @@ I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science an
 
 - I was previously Research@Carnegie Mellon (Neuro), Research@UC Santa Cruz (GenAI, RNA), Research@Seoul National (Genome).
 
+- So far, I contributed to: [Repomix](https://github.com/yamadashy/repomix), [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
+
 - ⚙️ I use `.ts`, `.tsx` for my startups/side projects. 
 
 - 💼 I use `.m`, `.swift`, `.cpp` for my work. 
