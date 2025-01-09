@@ -1,7 +1,7 @@
 # 👋 
 I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science and Biology, concentrating in software engineering and neuroscience.  
 
-- Current: Contributing to financially/developer focused open-source software.
+- Current: Contributing to financially/developer focused open-source software based in TypeScript.
 
 - I have software engineering experience at both FAANG and startup.
 
@@ -12,6 +12,8 @@ I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science an
 - 💼 I use `.m`, `.swift`, `.cpp` for my work. 
 
 - 🔎 I use `.py`, `.c`, `.rs` for any of my research.
+
+- 🌟 My favorite, most experienced and most preferred language is TypeScript.
 
 - 🧑‍🎓 I'm delving more into open-source contribution.
 
