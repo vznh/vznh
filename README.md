@@ -11,8 +11,6 @@ I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science an
 
 - ⚙️ I use `.ts`, `.tsx` for my startups/side projects. 
 
-- 💼 I use `.m`, `.swift`, `.cpp` for my work. 
-
 - 🔎 I use `.py`, `.c`, `.rs` for any of my research.
 
 - 🌟 My favorite, most experienced and most preferred language is TypeScript.
