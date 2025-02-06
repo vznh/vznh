@@ -1,7 +1,7 @@
 # 👋 
 I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science and Biology, concentrating in software engineering and neuroscience.  
 
-- Current: Contributing to financially/developer focused open-source software based in TypeScript.
+- Current: Building a tool to aggregate & allow easier exploration of open-source repositories.
 
 - I have software engineering experience at both FAANG and startup.
 
