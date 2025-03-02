@@ -1,5 +1,5 @@
 # 👋 
-I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science and Biology, concentrating in software engineering and neuroscience.  
+I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science and Biology, concentrating in software engineering and neuroscience. Ex-Apple, Ex-Startup, & exited once.
 
 - Current: Building a tool to aggregate & allow easier exploration of open-source repositories.
 
