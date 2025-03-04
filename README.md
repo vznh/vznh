@@ -9,4 +9,3 @@ I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science an
 
 - 🔎 I use `.py`, `.c`, `.rs` for any of my research.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vznh&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
