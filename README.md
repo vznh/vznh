@@ -1,7 +1,7 @@
 # 👋 
 I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science and Biology, concentrating in software engineering and neuroscience. Ex-Apple, Ex-Startup, & exited once (SeedA)
 
-- Current: Some stuff agentic + mcp related
+- Current: portfolio 
 
 - So far, I contributed to: [Repomix](https://github.com/yamadashy/repomix), [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 
