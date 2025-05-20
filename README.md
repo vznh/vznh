@@ -1,5 +1,5 @@
 # 👋 
-I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science and Biology, concentrating in software engineering and neuroscience. Ex-Apple, Ex-Startup, & exited once (SeedA)
+I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science and Applied Math. Ex-Apple, Ex-startup, and will-be in NYC.
 
 - So far, I contributed to: [Repomix](https://github.com/yamadashy/repomix), [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 
