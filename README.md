@@ -7,3 +7,5 @@ I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science an
 
 - 🔎 I use `.py`, `.c`, `.rs` for any of my research.
 
+- I don't work on side projects during weekends.
+
