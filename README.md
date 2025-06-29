@@ -1,5 +1,5 @@
 # 👋 
-I'm a recent graduate fro UC Santa Cruz with a primary in both Computer Science and Applied Math. Ex-Apple, Ex-startup. 
+I'm a recent graduate from UC Santa Cruz with a primary in both Computer Science and Applied Math. Ex-Apple, Ex-startup. 
 
 - ⚙️ I use `.ts`, `.tsx` for my startups/side projects. 
 
