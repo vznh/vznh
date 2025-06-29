@@ -1,7 +1,5 @@
 # 👋 
-I'm an undergraduate at UC Santa Cruz with a primary in both Computer Science and Applied Math. Ex-Apple, Ex-startup, and will-be in NYC.
-
-- So far, I contributed to: [Repomix](https://github.com/yamadashy/repomix), [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
+I'm a recent graduate fro UC Santa Cruz with a primary in both Computer Science and Applied Math. Ex-Apple, Ex-startup. 
 
 - ⚙️ I use `.ts`, `.tsx` for my startups/side projects. 
 
