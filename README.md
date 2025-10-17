@@ -5,5 +5,3 @@ I'm a recent graduate from UC Santa Cruz with a primary in both Computer Science
 
 - 🔎 I use `.py`, `.c`, `.rs` for any of my research.
 
-- I don't work on side projects during weekends.
-
