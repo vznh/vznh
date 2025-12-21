@@ -5,3 +5,4 @@ I'm a recent graduate from UC Santa Cruz with a primary in both Computer Science
 
 - 🔎 I use `.py`, `.c`, `.rs` for any of my research.
 
+- 👐 I worked on functionality for [Repomix](), UI for [Ghostfolio]() and now attempting [tinygrad]().
