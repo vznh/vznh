@@ -8,3 +8,5 @@ I'm a recent graduate from UC Santa Cruz with a primary in both Computer Science
 - 🔎 I use `.py`, `.c`, `.rs` for any of my research.
 
 - 👐 I worked on functionality for [Repomix](https://github.com/yamadashy/repomix), UI for [Ghostfolio](https://ghostfol.io/en) and now attempting [tinygrad](https://tinygrad.org/#tinygrad).
+
+- 🧛 You'll find that I will have a reduced amount of commits from January to now. This is on a different work account.
