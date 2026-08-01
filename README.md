@@ -1,5 +1,5 @@
 # 👋 
-I'm a recent graduate from UC Santa Cruz with a primary in both Computer Science and Applied Math. Ex-Apple, Ex-[founder](https://tokn.so), Ex-[startup](https://www.crunchbase.com/organization/etalyc). 
+I'm a recent graduate from UC Santa Cruz with a primary in both Computer Science and Applied Math. I contribute to open-source whenever I can.
 
 - 🔨 I work with `.ts`, `.tsx`, and `.py` right now.
 
