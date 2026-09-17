@@ -7,6 +7,6 @@ I'm a recent graduate from UC Santa Cruz with a primary in both Computer Science
 
 - 🔎 I use `.py`, `.c`, `.rs` for any of my research.
 
-- 👐 I worked on [Repomix](https://github.com/yamadashy/repomix), [Ghostfolio](https://ghostfol.io/en), and now focusing [tinygrad](https://tinygrad.org/#tinygrad), [biome](https://github.com/biomejs/biome) ([0](https://github.com/biomejs/biome/pull/11143)), [Zed](https://github.com/zed-industries/zed/fork) ([0](https://github.com/zed-industries/zed/pull/63224)), [bb](https://github.com/get-bb/bb) ([0](https://github.com/get-bb/bb/pull/3108)) and [LiveKit](https://github.com/livekit/agents)
+- 👐 I worked on [Repomix](https://github.com/yamadashy/repomix), [Ghostfolio](https://ghostfol.io/en), and now focusing [tinygrad](https://tinygrad.org/#tinygrad), [biome](https://github.com/biomejs/biome) ([0](https://github.com/biomejs/biome/pull/11143)), [Zed](https://github.com/zed-industries/zed/fork) ([0](https://github.com/zed-industries/zed/pull/63224)), [bb](https://github.com/get-bb/bb) ([0](https://github.com/get-bb/bb/pull/3108), [1](https://github.com/get-bb/bb/pull/3813)) and [LiveKit](https://github.com/livekit/agents)
 
 - 🧛 You'll find that I will have a reduced amount of commits from January to now. This is on a different work account.
